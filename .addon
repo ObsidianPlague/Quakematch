@@ -1,6 +1,8 @@
 {
-	"name": "simple-weapon-base",
+	"name": "quakematch",
+	"version": "0.5a",
 	"sharedassets": "*.*",
+	"ident": "obsidianshit.quakematch",
 		
     "depends": 
     [
@@ -12,8 +14,9 @@
 	"gamemodes":
 	[
 		{
-			"name": "simple-weapon-base",
-			"title": "Simple Weapon Base"
+			"name": "quakematch",
+			"title": "Quakematch",
+			"description": "Dumb shit"
 		}
 	]
 }

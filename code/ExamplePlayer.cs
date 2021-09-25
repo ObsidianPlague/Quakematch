@@ -1,6 +1,6 @@
 ﻿using SWB_Base;
 
-partial class ExamplePlayer : PlayerBase
+partial class QMPlayer : PlayerBase
 {
 
     public ExamplePlayer() : base() { }
